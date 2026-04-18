@@ -4,7 +4,7 @@ date: 2024-02-09 11:00:18
 tags:
   - Album
 ---
-![La Joconde](https://cx-onedrive.pages.dev/api/raw?path=/Album/20240209-Paris/DSC00416.jpeg)  
+ ![La Joconde](https://cx-onedrive.pages.dev/api/raw?path=/Album/20240209-Paris/DSC00416.jpeg)  
 ![Nike of Samothrace](https://cx-onedrive.pages.dev/api/raw?path=/Album/20240209-Paris/DSC00359.jpeg)  
 ![Vénus de Milo](https://cx-onedrive.pages.dev/api/raw?path=/Album/20240209-Paris/DSC00697.jpeg)  
 ![Galerie d'Apollon](https://cx-onedrive.pages.dev/api/raw?path=/Album/20240209-Paris/DSC00363.jpeg)  
