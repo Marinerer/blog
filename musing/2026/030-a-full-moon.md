@@ -5,6 +5,6 @@ tags:
   - Musing/Life
 ---
 
-![Moon](https://assets.shiyu.me/musing/2026/lumine.jpg)
+![Moon](https://cloud.shiyu.me/gallery/20240207-Munich/DSC08230.avif)
 
 This was my first time trying to photograph the moon. After picking up a few photography tips online, I finally managed to capture a beautiful full moon. I hope you enjoy it!
